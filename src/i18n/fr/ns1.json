@@ -1,0 +1,7 @@
+{
+    "title": "Bienvenue à react en utilisant react-i18next entièrement type-safe",
+    "description": {
+        "part1": "C'est un exemple simple.",
+        "part2": "😉"
+    }
+}
